@@ -23,20 +23,20 @@
 ### 安装依赖
 
 ```
-npm install
+pnpm install
 
 ```
 
 ### 本地启动开发
 
 ```
-npm run electron:dev
+npm run dev
 ```
 
-### 打包成客户端
+### 打包
 
 ```
-npm run electron:build
+npm run build
 ```
 
 ## License
